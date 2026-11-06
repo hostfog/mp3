@@ -1,0 +1,10 @@
+github.com/hostfog/mp3
+Copyright (c) 2026 HostFog Ltd
+
+The Huffman code tables and the analysis filterbank window are numeric data
+from ISO/IEC 11172-3. They were generated from the copies of those tables in
+github.com/hajimehoshi/go-mp3:
+
+  Copyright 2017 Hajime Hoshi
+  Licensed under the Apache License, Version 2.0
+  http://www.apache.org/licenses/LICENSE-2.0
